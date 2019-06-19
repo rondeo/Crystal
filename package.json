@@ -1,0 +1,39 @@
+{
+  "name": "crystal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dependencies": "0.0.1",
+    "discord-leveling": "^1.0.3",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "eslint": "^5.16.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "giphy-js-sdk-core": "^1.0.6",
+    "mathjs": "^6.0.2",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "node-opus": "^0.3.2",
+    "npm": "^6.9.0",
+    "opus": "0.0.0",
+    "opusscript": "0.0.6",
+    "parse-ms": "^2.1.0",
+    "peer": "^0.2.10",
+    "profanities": "^2.11.0",
+    "quick.db": "^7.0.0-b22",
+    "request-promise": "^4.2.4",
+    "simple-youtube-api": "^5.2.0",
+    "utils": "^0.3.1",
+    "weather": "^0.1.0",
+    "weather-js": "^2.0.0",
+    "windows": "0.0.8",
+    "winston": "^3.2.1",
+    "ytdl-core": "^0.29.2"
+  }
+}
